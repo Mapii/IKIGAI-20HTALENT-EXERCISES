@@ -1,0 +1,6 @@
+Give the paragraph a border that is 4px wide, solid and red.
+
+.main-pg {
+border: solid 4px red;
+
+}
